@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804095570044",
+    "project_id": "fir-appnotificacion",
+    "storage_bucket": "fir-appnotificacion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804095570044:android:769b88d9ce2a57b842d9f9",
+        "android_client_info": {
+          "package_name": "com.app.unilene.unilene_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2sWBYK3WxXw_AX2W8KYGj4ggKq5w35Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
